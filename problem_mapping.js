@@ -334,7 +334,7 @@ problem_mapping = {
                 "total": 2001
             },
             "Python: next_permutation.py": {
-                "passed": 0,
+                "passed": 2001,
                 "total": 2001
             }
         },
@@ -348,7 +348,7 @@ problem_mapping = {
                 "total": 8
             },
             "Python: offline_sampling.py": {
-                "passed": 0,
+                "passed": 8,
                 "total": 8
             }
         },
@@ -362,7 +362,7 @@ problem_mapping = {
                 "total": 7
             },
             "Python: online_sampling.py": {
-                "passed": 0,
+                "passed": 7,
                 "total": 7
             }
         },
@@ -376,7 +376,7 @@ problem_mapping = {
                 "total": 6
             },
             "Python: random_permutation.py": {
-                "passed": 0,
+                "passed": 6,
                 "total": 6
             }
         },
@@ -390,7 +390,7 @@ problem_mapping = {
                 "total": 9
             },
             "Python: random_subset.py": {
-                "passed": 0,
+                "passed": 9,
                 "total": 9
             }
         },
@@ -404,7 +404,7 @@ problem_mapping = {
                 "total": 10
             },
             "Python: nonuniform_random_number.py": {
-                "passed": 0,
+                "passed": 10,
                 "total": 10
             }
         },
@@ -418,7 +418,7 @@ problem_mapping = {
                 "total": 745
             },
             "Python: is_valid_sudoku.py": {
-                "passed": 0,
+                "passed": 745,
                 "total": 745
             }
         },
@@ -432,7 +432,7 @@ problem_mapping = {
                 "total": 51
             },
             "Python: spiral_ordering.py": {
-                "passed": 0,
+                "passed": 51,
                 "total": 51
             }
         },
@@ -446,7 +446,7 @@ problem_mapping = {
                 "total": 51
             },
             "Python: matrix_rotation.py": {
-                "passed": 0,
+                "passed": 51,
                 "total": 51
             }
         },
@@ -460,7 +460,7 @@ problem_mapping = {
                 "total": 35
             },
             "Python: pascal_triangle.py": {
-                "passed": 0,
+                "passed": 35,
                 "total": 35
             }
         }
